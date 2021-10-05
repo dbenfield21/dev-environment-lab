@@ -1,5 +1,5 @@
 
-! [Image of Dev Lab Screenshot]
+![Image of Dev Lab Screenshot]
 (https://i.imgur.com/WPnXvMd.png)
 
 # dev-environment-lab
